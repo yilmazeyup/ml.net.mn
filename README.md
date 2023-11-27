@@ -32,7 +32,7 @@
 
 <h2>Example Scenario</h2>
 <p>
-    Consider a day where two employees, 'sandyn101' and 'djh832', are available for the same shift. 'djh832' generates significantly higher income and sales count than 'sandyn101', but also comes at a higher expense. The application will analyze these factors and decide which employee's scheduling would bring more value to the store considering the cost-benefit ratio.
+    Consider a day where two employees, 'user1' and 'user2', are available for the same shift. 'user2' generates significantly higher income and sales count than 'user1', but also comes at a higher expense. The application will analyze these factors and decide which employee's scheduling would bring more value to the store considering the cost-benefit ratio.
 </p>
 
 <h2>Components</h2>
